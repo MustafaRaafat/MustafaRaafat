@@ -11,6 +11,8 @@
 [![Mustafa Raafat](https://github-readme-stats.vercel.app/api?username=MustafaRaafat&count_private=true&theme=jolly&hide_border=true&hide=contribs,prs,issues,stars&show_icons=true "Mustafa Raafat")](https://github.com/MustafaRaafat)
 
 
+[![News-App-Kotlin](https://github-readme-stats.vercel.app/api/pin/?username=MustafaRaafat&repo=News-App-Kotlin&show_owner=true&theme=jolly&hide_border=true "News-App-Kotlin")](https://github.com/MustafaRaafat/News-App-Kotlin)
+[![News-App](https://github-readme-stats.vercel.app/api/pin/?username=MustafaRaafat&repo=News-App&show_owner=true&theme=jolly&hide_border=true "News-App")](https://github.com/MustafaRaafat/News-App)
 [![e-shop](https://github-readme-stats.vercel.app/api/pin/?username=MustafaRaafat&repo=the-e-shop&show_owner=true&theme=jolly&hide_border=true "e-shop")](https://github.com/MustafaRaafat/The-e-shop) 
 [![Drow-Line](https://github-readme-stats.vercel.app/api/pin/?username=MustafaRaafat&repo=Drow-Line&show_owner=true&theme=jolly&hide_border=true "Drow-Line")](https://github.com/MustafaRaafat/Drow-Line)
 
