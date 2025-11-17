@@ -5,7 +5,7 @@
 </div>
 
 
-- 👀 I’m interested in developing android app.
+- 👀 I’m interested in developing android apps.
 - 🌱 I’m currently learning Flutter Development.
 - or you can take a look at my web portfolio : ⇒ [https://mustafa-raafat.herokuapp.com](https://mustafa-raafat.herokuapp.com)  
 
